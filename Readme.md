@@ -17,6 +17,10 @@ This project analyzes and predicts employee attrition using synthetic HR data, i
 - Automatic logging of model performance metrics
 - Artifact storage for models and visualizations
 
+![MLFlow Experiments](./MLflow_1.png)
+![MLFlow Comparison](./MLflow_2.png)
+![MLFlow Metrics](./MLflow_3.png)
+
 ### 2. Machine Learning Pipeline:
 
 - Three model architectures: Logistic Regression, XGBoost, Random Forest
