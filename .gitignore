@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# VS Code
+.vscode/
+
+.venv
+
+#mlruns
+mlflow_artifacts
+
+*.csv
+!train_part_*
+!test_part_*
+
+# MLflow
+mlruns/
+mlflow_artifacts/
+miruns/
